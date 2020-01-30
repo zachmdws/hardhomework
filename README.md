@@ -1,1 +1,1 @@
-# hardhomework
+I created a portfolio for myself with three different pages, a main About Me page, a Portfolio page which will display my projects and finally the Contact page in order to reach me with any feedback/questions. While creating the portfolio I attempted to utilize media queries in order to better adjust HTML/CSS elements on the screen for smaller sized devices viewing my webpage.
